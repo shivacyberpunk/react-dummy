@@ -1,4 +1,4 @@
-# React Project for React Course
+# Pure React Template
 
 ## Available Scripts
 
